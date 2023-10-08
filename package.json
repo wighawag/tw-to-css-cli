@@ -1,6 +1,6 @@
 {
   "name": "tw-to-css-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "tw-to-css but as cli",
   "bin": {
     "tw-to-css": "index.js" 
